@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Welcome to JavaScript</title>
+</head>
+
+<script>
+   function add () {
+
+      let firstnum = parseInt(document.getElementById("num1").value);
+      let secondnum = parseInt(document.getElementById("num2").value);
+
+      let result = firstnum + secondnum;
+
+      document.getElementById("res").innerHTML = result;
+   }
+</script>
+
+<body>
+   <h1>Welcome to JavaScript</h1>
+
+<form>
+   <label for="firstnum">First Number: </label>
+   <input type="text" id="num1"><br>
+  
+   <label for="secondnum">Second Number: </label>
+   <input type="text" id="num2"><br>
+
+   <span id="res"></span>  <br>
+
+   <input type="button" value="Add" onclick="add();">
+</form>
+
+</body>
+
+</html>
