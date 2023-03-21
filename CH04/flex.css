@@ -1,0 +1,50 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+ 
+.flex-container > .content {
+  flex: 1 1 250px;
+  padding: 10px;
+
+}
+
+.flex-container > .sidebar {
+  flex: 1 1 50px;
+  background-color: #f1f1f1;
+  padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+.header {
+  background: orange;
+  padding: 2em;
+  text-align: center;
+}
+
+.nav {
+  background: yellow;
+  padding: 1em;
+  text-align: center;
+}
+
+.footer {
+  background: orange;
+  padding: 1em;
+}
