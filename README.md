@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*The Absolute Beginner's Guide to HTML and CSS*](https://www.link.springer.com/book/10.1007/978-1-4842-9250-1) by Kevin Wilson (Apress, 2023).
+This repository accompanies [*The Absolute Beginner's Guide to HTML and CSS*](https://link.springer.com/book/10.1007/978-1-4842-9250-1) by Kevin Wilson (Apress, 2023).
 
 [comment]: #cover
 ![Cover image](978-1-4842-9249-5.jpg)
